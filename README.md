@@ -5,6 +5,7 @@ Open-source library for frequency-domain differentiable audio processing.
 
 It contains differentiable implementation of common LTI audio systems modules with learnable parameters.
 
+Test
 ---
 
 ### ⚙️ Optimization of audio LTI systems
